@@ -1,4 +1,4 @@
-# MVC Architecture Project
+# Tea Factory Management System(MVC Architecture concepts)
 
 Welcome to the MVC Architecture project! This project is developed for Tea Factory Management System using MVC Architecture concepts
 ## Overview
