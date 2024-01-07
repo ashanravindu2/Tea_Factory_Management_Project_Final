@@ -22,8 +22,15 @@ Before you begin, ensure you have met the following requirements:
    ```sql
    CREATE DATABASE IF NOT EXISTS Tfms;
    ```
+### Get SQL QUERY
+   Tea_Factory_Management_Project_Final
+   ---src
+      ---main
+         ---resources
+            ---sql
+               ---Mainschema.sql
 
-2. **Run SQL Script:**
+3. **Run SQL Script:**
    Locate the SQL file named `init_database.sql` in the `resources` folder. Run this script in your MySQL client to initialize the database with required tables and data.
 
 ## Usage
